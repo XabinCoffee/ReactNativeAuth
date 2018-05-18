@@ -7,7 +7,6 @@ const CardSection = (props) => (
   </View>
 );
 
-
 const styles = {
   containerStyle: {
     borderBottomWidth: 1,
